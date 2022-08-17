@@ -1,2 +1,2 @@
 # hello-world
-Just Another Repository
+a demo of github pages
